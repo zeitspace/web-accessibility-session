@@ -50,7 +50,7 @@ In many cases, accessibility issues span design and development work. Using the 
 
 #### Wrap-up
 
-Within the `Improvement` directory, there is an improved web page. The `mistakes.txt` files describes some of the issues that were identified and addressed.
+Within the `Improvement` directory, there is an improved web page. The `CHANGES.md` file describes some of the issues that were identified and addressed.
 
 ---
 
