@@ -1,4 +1,5 @@
 # The Good, the Bad, and the Ugly of Web Accessibility
+
 Welcome to the **The Good, the Bad, and the Ugly of Web Accessibility** Zeitspace Session!
 Let's make sure you're all set up.
 
@@ -6,27 +7,50 @@ Let's make sure you're all set up.
 
 * Download the project files in this Github repository, by clicking the `Clone or Download` and then `Download ZIP`. This file contains all the materials for this workshop.
 
+<img src="screenshots/github download.png" width="300">
+
 * Extract the ZIP file.
 
-### Optional tools
-Adobe XD is a design and prototyping tool. It is not required for this workshop but you are welcome to use it. We provide both Adobe XD assets and corresponding flattened PNG images. A trial of Adobe XD can be [downloaded from the Adobe site](http://creative.adobe.com/products/download/xd).
+#### Optional tools
+Adobe XD is a design and prototyping tool. It is not required for this workshop but you are welcome to use it. We provide Adobe XD assets and corresponding flattened PNG images where appropriate. A trial of Adobe XD can be [downloaded from the Adobe site](http://creative.adobe.com/products/download/xd).
 
 ## Activity 1
 
-The goal of this activity is to learn about structure as it relates to accessible design.
+The goal of this activity is to learn about document structure as it relates to accessible design. In particular, we'll explore the use of *landmarks* as a way of describing blocks of content on a web page.
 
-We'll provide a physical printout of a web page to work with for Activity 1. (We've also provided a PNG image of the web page in case you'd like to try this exercise again later.)
+#### Materials
+
+We'll provide:
+
+* physical printouts of several web pages, and
+* images of those web pages (as PNG and ganged-up PDF) in case you'd like to try the exercise again later.
+
+#### Tasks
 
 Using the physical printout, think about the different sections of the web page. Are there clear separations between different types of content? Can the sections you identify be assigned a landmark role?
 
+* Using a marker, draw lines around the different content sections you've identified.
+* Assign each section one of the [eight landmark roles](https://www.w3.org/WAI/GL/wiki/Using_ARIA_landmarks_to_identify_regions_of_a_page#Description).
+
 ## Activity 2
 
-Two types of assets are provided for Activity 2.
+The goals of this activity are to search for, identify, and explore possible solutions for accessibility issues within a web site and its design.
 
-* Adobe XD document. This contains the design for the web page
-* Web page (including the necessary HTML, CSS, and image files)
+#### Materials
 
-In many cases, accessibility issues span design and development. Using the assets provided, identify accessibility issues and decide how to solve them in the design, the implementation, or both.
+* Adobe XD document. This contains the design of the web page, including general layout and styling.
+* Web page (HTML, images, etc.). Open up `Zeitspace Post.html` from the `Activity 2` directory.
+
+#### Tasks
+
+In many cases, accessibility issues span design and development work. Using the assets provided:
+
+* identify accessibility issues, and
+* decide how to solve them in the design, the implementation, or both.
+
+#### Wrap-up
+
+Within the `Improvement` directory, there is an improved web page. The `mistakes.txt` files describes some of the issues that were identified and addressed.
 
 ---
 
