@@ -59,6 +59,7 @@ Within the `Improvement` directory, there is an improved web page. The `mistakes
   * [Web Content Accessibility Guidelines (WCAG)](https://www.w3.org/WAI/standards-guidelines/wcag/). The W3C work related to web accessibility, including a [quick reference](https://www.w3.org/WAI/WCAG21/quickref/) and [full breakdown](https://www.w3.org/TR/UNDERSTANDING-WCAG20/Overview.html).
   * [Accessibility for Ontarions with Disabilities Act (AODA)](https://www.aoda.ca). Related content includes [how to make websites accessible](https://www.ontario.ca/page/how-make-websites-accessible) and [how to fill out an accessibility compliance report](https://www.ontario.ca/page/completing-your-accessibility-compliance-report).
 * Tools
+  * [AChecker](https://achecker.ca/checker/index.php). A web-based accessibility checker that can analyze an existing web site. Nicely ties any findings to WCAG 2.0 guidelines.
   * [ARC Toolkit](https://www.paciellogroup.com/toolkit/). Automated accessibility evaluation tool, available as a Chrome extension. Integrates into the Chrome developer tools.
   * [aXe plugin](https://www.deque.com/axe/). Chrome plugin for automated web accessibility testing.
   * [Stark](https://getstark.co/index.html). Plugin for Adobe XD, Figma, and Sketch intended to help designers with contrast and colour blindness.
@@ -70,6 +71,7 @@ Within the `Improvement` directory, there is an improved web page. The `mistakes
   * Google has some accessibility content, including [an introduction to web accessibility](https://developers.google.com/web/fundamentals/accessibility), the [Material Design section on accessibility](https://material.io/design/usability/accessibility.html), and an article on [conducting an accessibility review](https://developers.google.com/web/fundamentals/accessibility/how-to-review?utm_source=lighthouse&utm_medium=devtools).
   * Microsoft's [accessibility portal](https://www.microsoft.com/en-us/accessibility).
   * Ontario Digital Service (ODS) [article about user testing and accessibility](https://medium.com/ontariodigital/accessibility-user-testing-heres-what-we-learned-277d2aeb4af8). ODS is the digital project group within the Ontario provincial government.
+  * [WCAG 2.0 Level A](https://github.com/zeitspace/web-accessibility-session/blob/master/Resources/WCAG%202.0%20Level%20A%20Checklist.pdf) and [WCAG 2.0 Level AA](https://github.com/zeitspace/web-accessibility-session/blob/master/Resources/WCAG%202.0%20Level%20AA%20Checklist.pdf) checklists, created by Zeitspace based on W3C WCAG resources.
   * [WebAIM](https://webaim.org). Collection of accessibility resources (including some good examples of image `alt` text). WebAIM makes WAVE, listed above.
 * Presentations
   * [Accessibility is Usability](https://www.confabevents.com/videos/accessibility-is-usability). Talk by Sarah Richards from Confab 2019.
