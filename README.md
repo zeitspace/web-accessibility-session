@@ -14,6 +14,8 @@ Let's make sure you're all set up.
 #### Optional tools
 Adobe XD is a design and prototyping tool. It is not required for this workshop but you are welcome to use it. We provide Adobe XD assets and corresponding flattened PNG images where appropriate. A trial of Adobe XD can be [downloaded from the Adobe site](http://creative.adobe.com/products/download/xd).
 
+The XD document uses the Fira Sans typeface family as part of the webpage design. You can download them from the [Google Fonts site](https://fonts.google.com/specimen/Fira+Sans). Without this font, the XD design and text spacing will be off.
+
 ## Activity 1
 
 The goal of this activity is to learn about document structure as it relates to accessible design. In particular, we'll explore the use of *landmarks* as a way of describing blocks of content on a web page.
@@ -72,7 +74,6 @@ Within the `Improvement` directory, there is an improved web page. The `CHANGES.
   * Microsoft's [accessibility portal](https://www.microsoft.com/en-us/accessibility).
   * Ontario Digital Service (ODS) [article about user testing and accessibility](https://medium.com/ontariodigital/accessibility-user-testing-heres-what-we-learned-277d2aeb4af8). ODS is the digital project group within the Ontario provincial government.
   * [WCAG 2.0 Level A](https://github.com/zeitspace/web-accessibility-session/blob/master/Resources/WCAG%202.0%20Level%20A%20Checklist.pdf) and [WCAG 2.0 Level AA](https://github.com/zeitspace/web-accessibility-session/blob/master/Resources/WCAG%202.0%20Level%20AA%20Checklist.pdf) checklists, created by Zeitspace based on W3C WCAG resources.
-  * [WebAIM](https://webaim.org). Collection of accessibility resources (including some good examples of image `alt` text). WebAIM makes WAVE, listed above.
+  * [WebAIM](https://webaim.org). Collection of accessibility resources (including some [good examples of image alt text](https://webaim.org/techniques/alttext/)). WebAIM, a non-profit affiliated with the University of Utah, makes WAVE, listed above.
 * Presentations
   * [Accessibility is Usability](https://www.confabevents.com/videos/accessibility-is-usability). Talk by Sarah Richards from Confab 2019.
-  
