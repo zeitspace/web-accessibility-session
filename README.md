@@ -3,6 +3,8 @@
 Welcome to the **The Good, the Bad, and the Ugly of Web Accessibility** Zeitspace Session!
 Let's make sure you're all set up.
 
+If you didn't attend the session in person, no problem. You may want to [read the slide deck](https://github.com/zeitspace/web-accessibility-session/blob/master/Resources/Zeitspace%20Session%20-%20Web%20accessibility%20slides.pdf) for a bit of background, but it isn't required.
+
 ## Setup
 
 * Download the project files in this Github repository, by clicking the `Clone or Download` and then `Download ZIP`. This file contains all the materials for this workshop.
